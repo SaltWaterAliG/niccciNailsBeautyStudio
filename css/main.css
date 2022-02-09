@@ -129,7 +129,8 @@ nav img{
     transition: 1s;  
 }
 .fas{
-    display: none;
+    color: transparent;
+    right: -200px;
 }
 @media(max-width:990px){
     .header .navbar{
